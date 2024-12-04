@@ -1,0 +1,17 @@
+vh representa a porcentagem da altura da viewport
+
+vw representa a largura.
+
+viewport é toda a parte branca da pagina
+
+vw serve para diminuir automaticamente o tamanho de letras e etc, de acordo com a largura da pagina.
+
+Exemplo:
+
+header > h1 {
+    padding-top: 50px;
+    font-variant: small-caps;
+    font-family: var(--fonte2);
+    font-size: 10vw;
+}
+

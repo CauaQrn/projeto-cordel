@@ -1,0 +1,14 @@
+existem 2 jeitos de colocar a letra em maiusculo:
+
+text-transform: uppercase;
+
+font-variant: small-caps;
+
+o uupercase é tudo em maiuscula e gritante
+
+o small-caps ja é algo mais bonito e não gritante. o small-caps deixa tudo em maiuscula, mas as primeiras letras sempre serão maiores.
+
+
+ line-height: 2em;
+
+ line-height é a altura de espaço de cada linha.
